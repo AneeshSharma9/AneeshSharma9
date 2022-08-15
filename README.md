@@ -1,6 +1,6 @@
 ![AneeshGithubBanner](https://user-images.githubusercontent.com/101680397/184562256-0dd94819-667a-4c6b-aa2b-542d5f87fb86.png)
 
-<h1 align="center">Aneesh Sharma</h1>
+<h1 align="center">Hello, I'm Aneesh</h1>
 
 <h1>Technical Skills</h1>
 
