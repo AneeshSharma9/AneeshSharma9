@@ -1,15 +1,6 @@
 ![AneeshGithubBanner](https://user-images.githubusercontent.com/101680397/184562256-0dd94819-667a-4c6b-aa2b-542d5f87fb86.png)
 
-<style>
-h1 {text-align: center;}
-p {text-align: center;}
-</style>
-
-<p align=”center”>
-
-<h1>Aneesh Sharma</h1>
-
-</p>
+<h1 align=”center”>Aneesh Sharma</h1>
 
 <h1>Technical Skills</h1>
 
