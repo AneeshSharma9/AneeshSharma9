@@ -21,7 +21,7 @@
 ![Dash](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
+<h1>Github Stats</h1>
 
 [![Aneesh’s github stats](https://github-readme-stats.vercel.app/api?username=AneeshSharma9)](https://github.com/AneeshSharma9)
 
