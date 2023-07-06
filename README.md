@@ -25,6 +25,4 @@
 
 <h1>Github Stats</h1>
 
-[![Aneesh’s github stats](https://github-readme-stats.vercel.app/api?username=AneeshSharma9)](https://github.com/AneeshSharma9)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AneeshSharma9&layout=compact)](https://github.com/AneeshSharma9)
